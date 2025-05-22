@@ -1,3 +1,6 @@
+import '../lib/utils';
+
+
 const express = require('express');
 const cors = require('cors');
 const sendEmail = require('./resendEmail');
