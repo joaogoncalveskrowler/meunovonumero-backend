@@ -1,5 +1,4 @@
-import '../lib/utils';
-
+require('../lib/utils');
 
 const express = require('express');
 const cors = require('cors');
